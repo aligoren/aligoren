@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**aligoren/aligoren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm working as a full-stack developer for over 4 years. My tech stacks are: Vue.JS, Slim Framework, CodeIgniter, .NET && .NET Core, Flask, GNU Linux Distributions.
 
-Here are some ideas to get you started:
+Check out my [website](https://aligoren.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Check out my [Dev](https://dev.to/aligoren) profile
+
+
+
+- 🔭 I’m currently working on Vue.js, .NET Core, PHP, Python, MySQL & MSSQL
+- 🌱 I’m currently learning React, PostgreSQL, GraphQL
+- 👯 I’m looking to collaborate on Vue.js and Basic Python Projects
+- 🤔 I’m looking for help with GraphQL
+- 💬 Ask me about Vue.js and Python
+- 📫 How to reach me: goren.ali@yandex.com
+- ⚡ Fun fact: I like to make bad jokes
+
